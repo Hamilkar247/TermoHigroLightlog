@@ -3,7 +3,7 @@
 deactivate
 cp klplatforma_utrzymanie_wersji/.env_projektu .env_projektu
 rm -r klplatforma_utrzymanie_wersji
-git clone https://github.com/Hamilkar247/update_projektu_skryptu_klraspi
+git clone https://github.com/Hamilkar247/klplatforma_utrzymanie_wersji.git
 cd klplatforma_utrzymanie_wersji
 virtualenv venv
 source venv/bin/activate
