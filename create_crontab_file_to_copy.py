@@ -8,11 +8,11 @@ import os
 
 def main():
     path_basic="/home/matball/Projects/TermoHigroLightLog"
-    glowny_kod=" klplatforma_odbior_wysylka"
+    glowny_kod="klplatforma_odbior_wysylka"
     python_venv="venv/bin/python3"
     updatejtowiec="klplatforma_utrzymanie_wersji"
     pierwszy=f"*/1 * * * * cd {path_basic}/{glowny_kod} && {path_basic}/{glowny_kod}/{python_venv} uruchom_skrypt_o_godzinie.py >>{path_basic}/logs.txt 2>&1"
-    drugi=f"*/5 * * * * cd {path_basic}/{updatejtowiec} && {path_basic}/{updatejtowiec}/{python_venv} utrzymanie_wersji.py >>{path_basic}/logs.txt 2>&1"
+    drugi=f"*/5 * * * * cd {path_basic}/{updatejtowiec} && {path_basic}/{updatejtowiec}/{python_venv} utrzymanie_wersji.py >>{path_basic}/logs_2.txt 2>&1"
     print(pierwszy)
     print(drugi)
 
