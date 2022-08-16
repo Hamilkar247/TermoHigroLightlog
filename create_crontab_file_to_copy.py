@@ -7,7 +7,7 @@ import os
 #*/1 * * * * cd /home/matball/Projects/TermoHigroLightLog/update_projektu_skryptu_klraspi && /home/matball/Projects/TermoHigroLightLog/update_projektu_skryptu_klraspi/venv/bin/python3 utrzymanie_wersji.py >>/home/matball/Projects/TermoHigroLightLog/logs.txt 2>&1
 
 def main():
-    path_basic="/home/matball/Projects/TermoHigroLightLog"
+    path_basic="/home/matball/Projects/TermoHigroLightlog"
     glowny_kod="klplatforma_odbior_wysylka"
     python_venv="venv/bin/python3"
     updatejtowiec="klplatforma_utrzymanie_wersji"
