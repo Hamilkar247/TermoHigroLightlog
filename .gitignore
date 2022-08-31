@@ -6,3 +6,4 @@ klplatforma_odbior_wysylka
 skrypty_klraspi
 *.swp
 *.old
+__pycache__
