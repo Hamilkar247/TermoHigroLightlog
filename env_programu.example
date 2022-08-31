@@ -1,4 +1,4 @@
-version=0.6
+version=0.7
 basic_path_ram=/run/user/1000/TermoHigroLightlog
 basic_path_project=/home/klplatforma/TermoHigroLightlog/klplatforma_odbior_wysylka
 docelowy_url_dla_post_pomiarow=https://personal-5ndvfcym.outsystemscloud.com/KlimaLog_core/rest/V1/CreateMeasurement
