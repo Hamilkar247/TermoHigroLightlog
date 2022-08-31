@@ -6,5 +6,6 @@ url_do_pobrania_alarmow=https://personal-5ndvfcym.outsystemscloud.com/KlimaLog_c
 url_do_pobrania_konfiguracji=https://personal-5ndvfcym.outsystemscloud.com/KlimaLog_core/rest/V1/GetRpiConfig?Rpi_serial_number=
 docelowy_url_dla_logow=https://personal-5ndvfcym.outsystemscloud.com/KlimaLog_core/rest/V1/CreateMeasurement
 url_wersja_programu=https://personal-5ndvfcym.outsystemscloud.com/KlimaLog_core/rest/V1/ProgramSettings
+url_do_update_wersji_programu=https://personal-5ndvfcym.outsystemscloud.com/KlimaLog_core/rest/V1/ProgramSettingsPost
 url_zip_code_repo=https://github.com/Hamilkar247/skrypty_klraspi/archive/refs/heads/master.zip
 reboot_jesli_potrzeba=False
