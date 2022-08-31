@@ -1,0 +1,228 @@
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:52:02 pid:25912  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:52:02 pid:25912  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:52:02 pid:25912  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:52:02 pid:25912  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:52:02 pid:25912  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:52:02 pid:25912  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:53:01 pid:25970  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:53:01 pid:25970  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:53:01 pid:25970  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:53:01 pid:25970  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:53:01 pid:25970  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:53:01 pid:25970  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:54:01 pid:25998  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:54:01 pid:25998  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:54:01 pid:25998  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:54:01 pid:25998  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:54:01 pid:25998  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:54:01 pid:25998  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:55:01 pid:26066  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:55:01 pid:26066  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:55:01 pid:26066  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:55:01 pid:26066  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:55:01 pid:26066  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:55:01 pid:26066  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:56:02 pid:26123  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:56:02 pid:26123  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:56:02 pid:26123  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:56:02 pid:26123  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:56:02 pid:26123  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:56:02 pid:26123  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:57:01 pid:26250  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:57:01 pid:26250  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:57:01 pid:26250  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:57:01 pid:26250  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:57:01 pid:26250  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:57:01 pid:26250  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:58:01 pid:26903  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:58:01 pid:26903  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:58:01 pid:26903  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:58:01 pid:26903  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:58:01 pid:26903  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:58:01 pid:26903  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 10:59:02 pid:27402  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 10:59:02 pid:27402  uruchom_skrypt_o_godzinie.py posix
+31/08/22 10:59:02 pid:27402  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 10:59:02 pid:27402  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 10:59:02 pid:27402  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 10:59:02 pid:27402  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:00:01 pid:27453  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:00:01 pid:27453  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:00:01 pid:27453  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:00:01 pid:27453  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:00:01 pid:27453  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:00:01 pid:27453  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:01:01 pid:27503  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:01:01 pid:27503  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:01:01 pid:27503  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:01:01 pid:27503  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:01:01 pid:27503  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:01:01 pid:27503  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:02:02 pid:27558  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:02:02 pid:27558  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:02:02 pid:27558  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:02:02 pid:27558  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:02:02 pid:27558  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:02:02 pid:27558  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:03:01 pid:27622  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:03:01 pid:27622  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:03:01 pid:27622  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:03:01 pid:27622  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:03:01 pid:27622  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:03:01 pid:27622  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:04:01 pid:27696  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:04:01 pid:27696  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:04:01 pid:27696  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:04:01 pid:27696  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:04:01 pid:27696  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:04:01 pid:27696  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:05:02 pid:27767  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:05:02 pid:27767  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:05:02 pid:27767  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:05:02 pid:27767  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:05:02 pid:27767  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:05:02 pid:27767  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:06:01 pid:27824  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:06:01 pid:27824  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:06:01 pid:27824  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:06:01 pid:27824  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:06:01 pid:27824  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:06:01 pid:27824  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:07:01 pid:27902  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:07:01 pid:27902  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:07:01 pid:27902  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:07:01 pid:27902  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:07:01 pid:27902  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:07:01 pid:27902  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:08:02 pid:27967  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:08:02 pid:27967  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:08:02 pid:27967  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:08:02 pid:27967  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:08:02 pid:27967  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:08:02 pid:27967  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:09:01 pid:28037  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:09:01 pid:28037  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:09:01 pid:28037  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:09:01 pid:28037  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:09:01 pid:28037  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:09:01 pid:28037  uruchom_skrypt_o_godzinie.py koniec programu
+Traceback (most recent call last):
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/uruchom_skrypt_o_godzinie.py", line 56, in main
+    basic_path_ram=fp.zmienna_env_folder("basic_path_ram","basic_path_ram - coś nie tak")
+  File "/home/matball/Projects/TermoHigroLightlog/klplatforma_odbior_wysylka/funkcje_pomocnicze.py", line 90, in zmienna_env_folder
+    raise ExceptionEnvProjektu
+funkcje_pomocnicze.ExceptionEnvProjektu
+31/08/22 11:10:01 pid:28085  uruchom_skrypt_o_godzinie.py ------uruchom_skrypt_o_godzinie.py--------
+31/08/22 11:10:01 pid:28085  uruchom_skrypt_o_godzinie.py posix
+31/08/22 11:10:01 pid:28085  uruchom_skrypt_o_godzinie.py basic_path_ram - coś nie tak, tag:basic_path_ram, path:/run/user/1000/TermoHigroLightlog
+31/08/22 11:10:01 pid:28085  uruchom_skrypt_o_godzinie.py exception 
+31/08/22 11:10:01 pid:28085  uruchom_skrypt_o_godzinie.py czy napewno skopiowales .env.example i podmieniles tam scieszki na takie jakie maja byc w programie?
+31/08/22 11:10:01 pid:28085  uruchom_skrypt_o_godzinie.py koniec programu
