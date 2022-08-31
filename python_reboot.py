@@ -5,7 +5,7 @@ import sys
 from funkcje_pomocnicze import ExceptionExistInstanceOfProcess, ExceptionVirtualenv, ExceptionRepository, FunkcjePomocnicze, ExceptionWindows, ExceptionNotExistFolder, ExceptionEnvProjektu
 
 def nazwa_programu():
-    return "pliki_z_logami_programu_i_ich_utylizacja.py"
+    return "python_reboot.py"
 
 def funkcje_pomocnicze_inicjalizacja():
     fp=FunkcjePomocnicze(nazwa_programu())
