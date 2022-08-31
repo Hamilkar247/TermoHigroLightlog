@@ -57,7 +57,8 @@ def main():
         ["klplatforma_odbior_wysylka/odebrane_jsony_z_konfiguracjami.json", 10000],
         ["klplatforma_odbior_wysylka/plik_z_krotkami_logi.json", 20000],
         ["logs.txt", 20000],
-        ["logs_2.txt", 20000]
+        ["logs_2.txt", 20000],
+        ["reboot.log", 20000]
         ]
     drukuj("sprawdzam rozmiar plikow z logami")
     for plik_do_sprawdzenia in tablica_plikow_i_max_zakresy:
