@@ -8,3 +8,5 @@ skrypty_klraspi
 *.old
 __pycache__
 env_programu
+reboot.log
+venv
