@@ -44,6 +44,7 @@ def main():
         ["klplatforma_odbior_wysylka/plik_z_krotkami_logi.json", 20000],
         ["logs.txt", 20000],
         ["logs_2.txt", 20000],
+        ["logs_3.txt", 20000],
         ["reboot.log", 20000]
         ]
     fp.drukuj("sprawdzam rozmiar plikow z logami")
