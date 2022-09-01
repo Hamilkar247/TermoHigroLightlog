@@ -38,14 +38,14 @@ def czy_plik_przekracza_dopuszczalny_rozmiar(element):
 def main():
     fp=funkcje_pomocnicze_inicjalizacja()
     tablica_plikow_i_max_zakresy=[
-        ["klplatforma_odbior_wysylka/wyslane_krotki.json", 20000],
+        ["klplatforma_odbior_wysylka/wyslane_krotki.json", 10000],
         ["klplatforma_odbior_wysylka/odebrane_jsony_z_alarmami.json", 10000],
         ["klplatforma_odbior_wysylka/odebrane_jsony_z_konfiguracjami.json", 10000],
-        ["klplatforma_odbior_wysylka/plik_z_krotkami_logi.json", 20000],
-        ["logs.txt", 20000],
-        ["logs_2.txt", 20000],
-        ["logs_3.txt", 20000],
-        ["reboot.log", 20000]
+        ["klplatforma_odbior_wysylka/plik_z_krotkami_logi.json", 10000],
+        ["logs.txt", 10000],
+        ["logs_2.txt", 10000],
+        ["logs_3.txt", 10000],
+        ["reboot.log", 10000]
         ]
     fp.drukuj("sprawdzam rozmiar plikow z logami")
     for plik_do_sprawdzenia in tablica_plikow_i_max_zakresy:
