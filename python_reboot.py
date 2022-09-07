@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import os
 import sys 
 from funkcje_pomocnicze import ExceptionExistInstanceOfProcess, ExceptionVirtualenv, ExceptionRepository, FunkcjePomocnicze, ExceptionWindows, ExceptionNotExistFolder, ExceptionEnvProjektu
