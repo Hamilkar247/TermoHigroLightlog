@@ -20,7 +20,7 @@ def sprawdz_lsusb():
 
 def main():
     fp=funkcje_pomocnicze_inicjalizacja()
-    if sprawdz_lsusb() > 0:
+    if sprawdz_lsusb() == 0:
         fp.drukuj("proba reboota")
         os.system('/sbin/reboot') 
         fp.drukuj("jesli reboot sie odbyl poprawnie nie zobaczysz tej wiadomosci")       
